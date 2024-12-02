@@ -1,5 +1,5 @@
 - name: GENERIC 제네릭
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: ./assets/images/generic_reading_logo.png
   link:
   description: 수능 국어 기초
 - name: REFACTORING 리팩토링
