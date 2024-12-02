@@ -1,16 +1,16 @@
-- name: GENERIC
+- name: GENERIC 제네릭
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link:
   description: 수능 국어 기초
-- name: REFACTORING
+- name: REFACTORING 리팩토링
   link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: 수능 국어 기출 분석
-- name: LOAD BALANCING
+- name: LOAD BALANCING 로드 밸런싱
   link:
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
   description: EBS 분석 자료
-- name: TEST-DRIVEN
+- name: TEST-DRIVEN 테스트 드라이븐
   link:
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: 주간지
